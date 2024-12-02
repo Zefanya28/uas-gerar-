@@ -1,0 +1,85 @@
+body{
+    background: linear-gradient(135deg, #6dd5ed 0%, #2193b0 40%, #1e3c72 100%);
+}
+.profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+}
+.profileimage{
+    width: 200px;
+}
+
+.profile h2 {
+    color: white;
+}
+.profile h4 {
+    color: white;
+    transform: translateY(-10px);
+}
+
+.biodata {
+    background: linear-gradient(135deg, #f7f7f7 0%, #eaedee93 40%, #1e3b729f 100%);
+    padding-bottom: 100px;
+}
+
+.start{
+    transform: translateY(15px);
+}
+
+.footer{
+    background: white;
+}
+
+.logo{
+    color: black;
+}
+.contact a{
+    color: black;
+    width: 100px;
+}
+
+.fivethContainer {
+    margin-top: -150px;
+    background-color: #fff;
+  }
+  .linkSosmed {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+  }
+  .itemSosmed {
+    padding: 10px;
+    color: black;
+    text-decoration: none;
+  }
+  .contactMe {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -90px;
+  }
+
+  .achievement{
+    padding-top: 55px;
+  }
+  
+  .biodata{
+    padding-top: 55px;
+  }
+
+  .footer{
+    background-color: white;
+    padding-bottom: 20px;
+  }
+
+  .contact a{
+    color: black;
+  }
+  
+  .watermark{
+    padding-top: 30px;
+  }
